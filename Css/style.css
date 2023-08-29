@@ -1,0 +1,77 @@
+#titulo{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    margin-top: 10px;
+}
+
+.tarjetaProducto img{
+    height: 200px;
+    width: 200px;
+}
+
+.tarjetaProducto{
+    border: solid 3px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 10px;
+}
+
+#carrito{
+    width: 100%;
+    height: auto;
+    border: solid 3px black;
+    margin-top: 5px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+}
+
+.ocultar{
+    display: none;
+}
+
+#gracias-mensaje{
+    position: absolute;
+    font-size: 20px;
+    top: 50%;
+}
+
+.eliminar-producto{
+    margin-bottom: 5px;
+}
+
+.mensajeCarrito{
+    font-size: 20px;
+    text-align: center;
+}
+
+.contenido{
+    font-size: 20px;
+}
+
+.total{
+    font-size: 25px;
+}
+
+#mensajeCompra {
+    text-align: center;
+    font-size: 30px;
+}
+
+#agradecimiento{
+    text-align: center;
+    font-size: 30px;
+}
+
+#cerrarSesion{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 5px;
+    font-size: 15px;
+}
+
+
